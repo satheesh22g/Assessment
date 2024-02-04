@@ -34,7 +34,6 @@ This project implements a simple RESTful API using FastAPI for a book review sys
 ## Setup
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run the FastAPI application: `uvicorn app:app --reload`
-3. Access the API documentation at `http://127.0.0.1:8000/docs` or `http://127.0.0.1:8000/redoc`
 
 ## Running Tests
 - Execute tests using  `pytest`.
