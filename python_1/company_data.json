@@ -1,0 +1,17 @@
+{
+    "departments": {
+      "HR": [
+        "John Doe - ID: 1001",
+        "Jane Smith - ID: 1002"
+      ],
+      "Engineering": [
+        "Bob Johnson - ID: 2001",
+        "Alice Williams - ID: 2002"
+      ],
+      "Marketing": [
+        "Charlie Brown - ID: 3001",
+        "Diana Miller - ID: 3002"
+      ]
+    }
+  }
+  
